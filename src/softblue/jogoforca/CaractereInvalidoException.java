@@ -1,9 +1,15 @@
 package softblue.jogoforca;
 
 /**
- * Exceçao que indica que o caractere digitado é inválido por algu motivo
+ * atualizando versao
+ * Exceï¿½ao que indica que o caractere digitado ï¿½ invï¿½lido por algu motivo
  */
 public class CaractereInvalidoException extends JogoDaForcaException {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * @see JogoDaForcaException#JogoDaForcaException(String)

@@ -1,9 +1,14 @@
 package softblue.jogoforca;
 
 /**
- * Representa uma exceção genérica ocorrida no jogo
+ * Representa uma exceï¿½ï¿½o genï¿½rica ocorrida no jogo
  */
 public class JogoDaForcaException extends Exception {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * @see Exception#Exception(String)
